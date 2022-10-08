@@ -1,3 +1,4 @@
+export TERM=xterm
 referrer=$WARP_ID
 SEND_LOG=$SEND_LOG
 BOT_TOKEN=$BOT_TOKEN
